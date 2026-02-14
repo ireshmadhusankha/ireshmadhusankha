@@ -23,9 +23,9 @@ I'm a passionate developer exploring the world of technology and building soluti
 ## 🛠️ Tech Stack
 
 ```text
-💻 Languages:     [Your primary languages]
-🧰 Frameworks:    [Your frameworks]
-🗄️ Databases:     [Your databases]
+💻 Languages:     Javascript, Python, Java, C++, Rust
+🧰 Frameworks:    ExpressJs, NestJs
+🗄️ Databases:     MongoDB, Firestore, Postgres
 🔧 Tools:         Git, GitHub, VS Code
 ```
 
