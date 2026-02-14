@@ -17,8 +17,6 @@ I'm a passionate developer exploring the world of technology and building soluti
 
 - 🔭 Currently working on expanding my development skills
 - 🌱 Always learning new technologies and best practices
-- 💡 Open to collaborating on interesting projects
-- 📫 Let's connect and build something amazing together!
 
 ---
 
